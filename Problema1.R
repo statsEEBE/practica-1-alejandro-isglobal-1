@@ -26,3 +26,4 @@ x<- mis_dades$qsec
 
 sum((x-mean(x))^2)/(length(x)-1)
 var(x)
+shgd
